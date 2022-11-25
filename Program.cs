@@ -64,3 +64,5 @@ if (not)
 {
     Console.WriteLine("Нет Четных чисел!");
 }
+default:
+   begin =false;
